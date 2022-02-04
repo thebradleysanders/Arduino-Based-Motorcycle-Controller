@@ -1,7 +1,7 @@
 //Bike Controller v1
 //Created By: Brad Sanders
 //MF: 11/8/2017
-//Arduino UNO R3
+//Arduino Pro Mini
 
 
 /*
